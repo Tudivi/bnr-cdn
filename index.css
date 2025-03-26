@@ -1,0 +1,15 @@
+body > a:last-child {
+	position:static!important;
+  	padding:10px!important;
+	justify-content: center;
+    width: 100%;
+
+}
+body > a:last-child > img {
+  width: 18px!important;
+  height: 18px!important;
+}
+
+body > a:last-child > p{
+	Font-size: 14px!important;
+}
