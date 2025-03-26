@@ -1,0 +1,15 @@
+body > a {
+	position:static!important;
+  	padding:10px!important;
+	justify-content: center;
+    width: 100%;
+
+}
+body > a > img {
+  width: 18px!important;
+  height: 18px!important;
+}
+
+body > a > p{
+	Font-size: 14px!important;
+}
